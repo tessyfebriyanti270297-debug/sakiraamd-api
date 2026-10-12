@@ -1,0 +1,12 @@
+{
+"name": "sakiraamd-api",
+"version": "1.0.0",
+"description": "SakiraaMD API",
+"main": "index.js",
+"scripts": {
+"start": "node index.js"
+},
+"dependencies": {
+"express": "^5.1.0"
+}
+}
